@@ -1,22 +1,22 @@
 ## File Structure
 
-proj2_sakshi_kakde    
--Code
---bfsPath.ipynb
---bfsPath.py
---Obstacle.py
+proj2_sakshi_kakde     
+-Code    
+--bfsPath.ipynb    
+--bfsPath.py    
+--Obstacle.py    
 
--Results
---.avi files
+-Results   
+--.avi files   
 
--README.md
+-README.md   
 
-## How to run code
-Change the directory where the .py file is present
+## How to run code   
+Change the directory where the .py file is present    
 cd /home/sakshi/courses/ENPM661/proj2_sakshi_kakde/Code
 
-Run the following command 
-python3 bfsPath.py --InitState 200 300 --GoalState 350 250
+Run the following command     
+python3 bfsPath.py --InitState 200 300 --GoalState 350 250   
 
 ## Parameters   
 1) InitState - inital state for the path
